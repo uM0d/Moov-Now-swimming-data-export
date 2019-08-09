@@ -7,28 +7,28 @@ How to use:
 
 Install Moov Coach MOD apk to android device or android emulator such NOX
 
-![alt text](https://github.com/uM0d/Moov-Now-swimming-data-export-/blob/master/1.png)
+![alt text](https://github.com/uM0d/Moov-Now-swimming-data-export/blob/master/1.png)
 
 Open Moov Coach MOD and wait to restore your backup
 
-![alt text](https://github.com/uM0d/Moov-Now-swimming-data-export-/blob/master/2.png)
+![alt text](https://github.com/uM0d/Moov-Now-swimming-data-export/blob/master/2.png)
 
 Open a swim from history
 
-![alt text](https://github.com/uM0d/Moov-Now-swimming-data-export-/blob/master/3.png)
+![alt text](https://github.com/uM0d/Moov-Now-swimming-data-export/blob/master/3.png)
 
 Open File Manager
 
-![alt text](https://github.com/uM0d/Moov-Now-swimming-data-export-/blob/master/4.png)
+![alt text](https://github.com/uM0d/Moov-Now-swimming-data-export/blob/master/4.png)
 
 Search for MoovBackup folder.
 
-![alt text](https://github.com/uM0d/Moov-Now-swimming-data-export-/blob/master/5.png)
+![alt text](https://github.com/uM0d/Moov-Now-swimming-data-export/blob/master/5.png)
 
 You can read your swim as csv
 
-![alt text](https://github.com/uM0d/Moov-Now-swimming-data-export-/blob/master/6.png)
+![alt text](https://github.com/uM0d/Moov-Now-swimming-data-export/blob/master/6.png)
 
 You can open csv file with Excel.
 
-![alt text](https://github.com/uM0d/Moov-Now-swimming-data-export-/blob/master/7.png)
+![alt text](https://github.com/uM0d/Moov-Now-swimming-data-export/blob/master/7.png)
