@@ -38,4 +38,4 @@ You can read your swim as csv
 
 You can open csv file with Excel.
 
-![alt text](https://github.com/uM0d/Moov-Now-swimming-data-export/blob/master/7.png)
+![alt text](https://github.com/uM0d/Moov-Now-swimming-data-export/blob/master/Strokes.png)
