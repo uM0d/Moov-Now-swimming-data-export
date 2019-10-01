@@ -3,9 +3,11 @@ The Moov Now  device will track your ride, run, swim, cycle, box, HIIT and cross
 Install and enjoy.
 https://androidfilehost.com/?fid=6006931924117917386
 
-Update:
-  The moov app has a hidden gem,one that monitors every stroke timing. 
-  For the ones that want to monitor the timing of every single stroke, I have built a new version of my MOD.
+
+Update: 
+  The Moov Now app has a hidden timing, one that monitors every swimming stroke. 
+  For the ones that want to monitor the timing of every single stroke, I have built a new version of my MOD to export strokes to csv file. 
+  The new version is available to download from 
   https://www.androidfilehost.com/?fid=1899786940962596201
 
 How to use:
