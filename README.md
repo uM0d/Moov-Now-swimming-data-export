@@ -4,7 +4,6 @@ Install and enjoy.
 
 Update:
 
-  Export Moov Now swim sessions to Strava
   I built a new Moov Now Coach MOD to export swim sessions to FIT and csv files.
   Just open your swim session from history and find into MoovBackup folder the exported files.
   Use FIT files to upload your workout to Strava.com and Swim.com or analyse on SwimmingWatchTools.com
