@@ -15,7 +15,9 @@ Update:
 
 How to use:
 
-Install Moov Coach MOD apk to android device or android emulator such NOX
+Install Moov Coach MOD apk to android device or android emulator such NOX or online 
+https://www.apkonline.net/free-android-online-emulator/run-android-online-emulator ,
+a good option for IOS users.
 
 ![alt text](https://github.com/uM0d/Moov-Now-swimming-data-export/blob/master/1.png)
 
