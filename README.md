@@ -22,6 +22,7 @@ a good option for IOS users.
 For Android greater than 6.0 (sdk 23), check and grant storage permission for this app.
 
 ![alt text](https://github.com/uM0d/Moov-Now-swimming-data-export/blob/master/1.png)
+![alt text](https://github.com/uM0d/Moov-Now-swimming-data-export/blob/master/Permissions.png)
 
 Open Moov Coach MOD and wait to restore your backup
 
